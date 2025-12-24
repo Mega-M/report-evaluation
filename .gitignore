@@ -1,0 +1,83 @@
+# ============ 大文件类型 ============
+# 模型文件
+*.safetensors
+*.bin
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+# 文档和压缩文件
+*.pdf
+*.PDF
+*.zip
+*.tar.*
+*.7z
+*.rar
+*.iso
+*.img
+
+# ============ 大目录 ============
+# 模型目录（包含Qwen等大模型）
+data/models/
+data/
+models/
+datasets/
+annual-reports_output/
+checkpoints/
+
+# ============ 临时和缓存文件 ============
+.Trash-1000/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+.tox/
+
+# ============ 环境相关 ============
+venv/
+env/
+.venv/
+ENV/
+conda/
+*.egg-info/
+build/
+dist/
+
+# ============ 系统文件 ============
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.temp
+*.cache
+
+# ============ IDE配置 ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============ 数据库文件 ============
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+
+# ============ 其他 ============
+# 保留但不上传的目录
+!data/README.md
+!data/.gitkeep

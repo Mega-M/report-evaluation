@@ -1,0 +1,9 @@
+report_file,pdf_file,status,summac_vitc,source_chars,report_chars,eval_seconds
+NVIDIA-2018-Annual-Report_short_report.txt,NVIDIA-2018-Annual-Report.pdf,ok,0.7670710682868958,200000,1837,13.612
+NVIDIA-2019-Annual-Report_short_report.txt,NVIDIA-2019-Annual-Report.pdf,ok,0.6316620111465454,200000,5063,30.036
+NVIDIA-2020-Annual-Report_short_report.txt,NVIDIA-2020-Annual-Report.pdf,ok,0.5587478876113892,200000,3866,25.275
+NVIDIA-2021-Annual-Report_short_report.txt,NVIDIA-2021-Annual-Report.pdf,ok,0.6328050494194031,200000,2689,8.367
+NVIDIA-2022-Annual-Report_short_report.txt,NVIDIA-2022-Annual-Report.pdf,ok,0.5793188214302063,200000,2701,19.445
+NVIDIA-2023-Annual-Report_short_report.txt,NVIDIA-2023-Annual-Report.pdf,ok,0.5820460915565491,200000,2930,12.824
+NVIDIA-2024-Annual-Report_short_report.txt,NVIDIA-2024-Annual-Report.pdf,ok,0.6385868191719055,200000,3122,22.862
+NVIDIA-2025-Annual-Report_short_report.txt,NVIDIA-2025-Annual-Report.pdf,ok,0.5880957841873169,200000,5281,16.649
